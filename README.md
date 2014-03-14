@@ -30,7 +30,7 @@ Code
     
     [self.view addGestureRecognizer:self.tapGesture];
     
-3-Write down the tampScreen method
+3-Write down the tapScreen method
 
     - (IBAction)tapScreen:(id)sender
     {
